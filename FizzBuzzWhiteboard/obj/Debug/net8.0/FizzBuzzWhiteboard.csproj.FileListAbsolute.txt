@@ -1,0 +1,14 @@
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.exe
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.deps.json
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.runtimeconfig.json
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.dll
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\bin\Debug\net8.0\FizzBuzzWhiteboard.pdb
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.AssemblyInfoInputs.cache
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.AssemblyInfo.cs
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.csproj.CoreCompileInputs.cache
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.dll
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\refint\FizzBuzzWhiteboard.dll
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.pdb
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\FizzBuzzWhiteboard.genruntimeconfig.cache
+C:\Users\SK\OneDrive\Desktop\repos\FizzBuzzWhiteboard\FizzBuzzWhiteboard\obj\Debug\net8.0\ref\FizzBuzzWhiteboard.dll
